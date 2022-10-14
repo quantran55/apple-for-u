@@ -1,0 +1,50 @@
+{
+    "retentionSettings": {
+        "state": "PERMANENT"
+    },
+    "space": {
+        "displayName": "My Space",
+        "spaceThreadingState": "GROUPED_MESSAGES",
+        "spaceHistoryState": "HISTORY_ON",
+        "type": "ROOM",
+        "spaceType": "SPACE",
+        "threaded": true,
+        "name": "spaces/AAAAf4U2Mt0"
+    },
+    "argumentText": " 123",
+    "name": "spaces/AAAAf4U2Mt0/messages/PkvR2DtYVtQ.ZM9t0w0L_hw",
+    "sender": {
+        "type": "HUMAN",
+        "domainId": "0u1egx7",
+        "email": "quan.tran@finhay.com.vn",
+        "name": "users/101930254119321376090",
+        "displayName": "Quan Tran Dinh - Tech",
+        "avatarUrl": ""
+    },
+    "messageHistoryState": "HISTORY_ON",
+    "annotations": [
+        {
+            "type": "USER_MENTION",
+            "userMention": {
+                "user": {
+                    "displayName": "Apple4U",
+                    "avatarUrl": "",
+                    "type": "BOT"
+                },
+                "type": "MENTION"
+            },
+            "length": 8
+        }
+    ],
+    "thread": {
+        "name": "spaces/AAAAf4U2Mt0/threads/PkvR2DtYVtQ",
+        "retentionSettings": {
+            "state": "PERMANENT"
+        }
+    },
+    "createTime": {
+        "nanos": 41375000,
+        "seconds": 1665660328
+    },
+    "text": "@Apple4U 123"
+}
